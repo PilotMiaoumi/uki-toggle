@@ -8,8 +8,8 @@ It automatically detects your bootloader, initramfs generator, and your UKI dire
 ---
 
 ## y?
-- **Fuck Linus Torvalds?** Linus Torvalds is a staunchy hypocritical shit, who fully supports AI because the foundations that support him (All the shitty monopolies), pay for his fucking vacations. Fuck Linus and his stupid anti-ai stance. AI is DISGUSTING. FUCK YOU. Fork the kernel and lets get rid of his stupid little shit.
-- **AI?** ALL of my projects are ANTI AI and I will NEVER USE AI IN MY PERSONAL LIFE. FUCK AI.
+- **Fuck Linus Torvalds?** Linus Torvalds is a staunchy hypocritical shit, who fully supports AI because the foundations that support him (All the shitty monopolies), pay for his fucking vacations. Fuck Linus and his stupid ass anti-ai stance. AI is DISGUSTING. FUCK YOU. Fork the kernel and lets get rid of his stupid little shit.
+- **AI?** ALL of my projects are ANTI AI and I will NEVER USE AI IN MY LIFE. FUCK AI. Shame we have to say this nowadays.
 - **UKI mode** bundles the kernel, initramfs, and the cmdline into a single .efi file, which is useful for Secure Boot, TPM encryption (of which two things I dont care for), faster boot times (at least for me), and a splash screen that doesn't need plymouth to work.
 - **Traditional mode** uses separate 'vmlinuz' and 'initramfs' files to boot, which is more flexible and simpler.
 
